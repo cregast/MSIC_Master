@@ -1,0 +1,14 @@
+python -m pip install --upgrade pip;
+pip install PIL;
+pip install Pillow==4.0.0;
+pip install matplotlib;
+pip install IPython;
+pip install numpy;
+pip install csv;
+pip install tkinter;
+pip install os;
+pip install glob;
+pip install sys;
+pip install time;
+pip install pathlib;
+pip install ipyparallel;
