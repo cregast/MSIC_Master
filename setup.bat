@@ -12,3 +12,4 @@ pip install sys;
 pip install time;
 pip install pathlib;
 pip install ipyparallel;
+pip install PyQt5;
